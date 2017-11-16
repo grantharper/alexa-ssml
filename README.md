@@ -1,4 +1,4 @@
-# Serverless Alexa Skill Template
+# Serverless Alexa Skill with SSML Experimentation
 
 This alexa skill was created to experiment with the [serverless](https://serverless.com) framework. It is configured to deploy to AWS Lambda.
 
