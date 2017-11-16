@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    }
+  ]
+}

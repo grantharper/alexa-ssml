@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "sessionAttributes": {
+    "sessionTemplate": {
+      "counter": 0
+    }
+  },
+  "response": {
+    "outputSpeech": {
+      "type": "string",
+      "text": "string",
+      "ssml": "string"
+    },
+    "card": {
+      "type": "string",
+      "title": "string",
+      "content": "string",
+      "text": "string",
+      "image": {
+        "smallImageUrl": "string",
+        "largeImageUrl": "string"
+      }
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "string",
+        "text": "string",
+        "ssml": "string"
+      }
+    },
+    "shouldEndSession": true
+  }
+}
