@@ -7,7 +7,7 @@ var s3 = new aws.S3();
 module.exports.retrieveFromS3 = function(callback){
   var params = {
     Bucket: info.bucketName,
-    Key: 'tricks.json'
+    Key: 'hour-of-code.json'
   };
   
   s3.getObject(params, function(err, data){

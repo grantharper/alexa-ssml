@@ -91,3 +91,6 @@ You can have Alexa say pretty much any nonsense with IPA
 ```xml
 "<phoneme alphabet=\"ipa\" ph=\"əzæʒsoʊlɹfd͡ʒbɪɔɪpʃt͡ʃɔɪʌsoʊlɹfd͡ɪpʒspʃt͡lɹffd͡ʒbɪæʒsolɹfd͡ɪpʒspʃt͡ləzæʒsoʊlɹfd͡ʒbɪɔɪpʃt͡ʃɔɪʌsoʊlɹfd͡ɪpʒspʃt͡lɹffd͡ʒbɪæʒsolɹfd͡ɪpʒspʃt͡l\">lame</phoneme>"
 ```
+
+Attribution for sounds:
+Applause sound: http://soundbible.com/989-10-Second-Applause.html

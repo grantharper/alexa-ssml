@@ -1,0 +1,9 @@
+[
+  "Hello Glasgow Middle School students. Welcome to the hour of code demo. My name is Alexa and I'm going to show you a few tricks this afternoon.",
+  "Check out how I can whisper. <amazon:effect name=\"whispered\">I can tell secrets like this. But I think the teacher can still hear me</amazon:effect>",
+  "What number is this? <say-as interpret-as=\"cardinal\">3.14159265359</say-as>",
+  "<prosody volume=\"+4dB\" pitch=\"low\" rate=\"x-slow\">Now I sound like a computer. Let me perform a calculation. For the equation x squared plus 3 x plus 2 equals 0, the possible values of x are negative 2 and negative 1.</prosody>",
+  "<prosody volume=\"+4dB\" pitch=\"x-high\" rate=\"fast\">Want a plane that loops the loop. Me, I want a hula hoop. I sound like a chipmunk</prosody>",
+  "You can also have me say complete nonsense by telling me the exact sounds I should make using the international phonetic alphabet. <phoneme alphabet=\"ipa\" ph=\"əzæʒsoʊlɹfd͡ʒbɪɔɪpʃt͡ʃɔɪʌsoʊlɹfd͡ɪpʒspʃt͡lɹffd͡ʒbɪæʒsolɹfd͡ɪpʒspʃt͡ləzæʒsoʊlɹfd͡ʒbɪɔɪpʃt͡ʃɔɪʌsoʊlɹfd͡ɪpʒspʃt͡lɹffd͡ʒbɪæʒsolɹfd͡ɪpʒspʃt͡l\">lame</phoneme>",
+  "That's all for now. <audio src=\"https://s3.amazonaws.com/serverless-bucket-alexa-tricks/applause-edit.mp3\" /> Thank you, that's very kind"
+]
